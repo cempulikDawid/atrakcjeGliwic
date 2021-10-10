@@ -1,0 +1,60 @@
+body {
+    background-color: #111;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 1vw;
+}
+
+.container {
+    background-color: #222;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+}
+
+.container p {
+    padding-top: 20px;
+    width: 90%;
+    margin: auto;
+}
+
+#baner {
+    width: 100%;
+}
+
+.item {
+    width: 70%;
+    margin: auto;
+}
+
+.item img {
+    width: 100%;
+    border: 10px solid #333;
+}
+
+.item a, a:visited {
+    text-decoration: none;
+    color: black;
+    font-size: 3vw;
+}
+
+.item a p {
+    -webkit-text-stroke: 0.1vw black;
+    color: white;
+    text-align: left;
+    position: relative;
+    bottom: 12vw;
+    left: 12px;
+}
+
+footer p {
+    color: #888
+}
+
+.photo {
+    width: 90%;
+    margin: auto;
+    display: block;
+}
+
